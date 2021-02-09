@@ -1,13 +1,13 @@
-# simple-base-converter
+# @macil/simple-base-converter
 
-master: ![](https://github.com/sin9270/simple-base-converter/workflows/Node.js%20Package/badge.svg?branch=master)
+_This is a fork of https://github.com/sin9270/simple-base-converter changed to publish ES5-compatible code to npm._
 
 Simple math module for base conversion.
 
 ## Install
 
 ```bash
-npm i simple-base-converter
+npm i @macil/simple-base-converter
 ```
 
 ## Usage
